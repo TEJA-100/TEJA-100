@@ -30,7 +30,7 @@ I’m **Teja Sai Gudla**, an Electronics and Communication Engineering undergrad
   <img src="https://img.shields.io/badge/Internship-2%20months-171914?style=flat-square&labelColor=171914&color=CAFF54" alt="Two-month MERN stack internship" />
 </p>
 
-## What I Work With
+## Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html,css,react,tailwind,bootstrap,nodejs,express,mongodb,firebase,git,github,vscode&theme=dark" alt="Technology icons: C, C++, Java, JavaScript, Python, HTML, CSS, React, Tailwind, Bootstrap, Node.js, Express, MongoDB, Firebase, Git, GitHub, VS Code" />
