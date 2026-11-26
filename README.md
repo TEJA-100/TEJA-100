@@ -40,7 +40,7 @@ I’m **Teja Sai Gudla**, an Electronics and Communication Engineering undergrad
   <img src="https://img.shields.io/badge/Arduino%20Uno-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino Uno" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/NodeMCU-20232A?style=flat-square&logo=esphome&logoColor=white" alt="NodeMCU" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white" alt="MQTT" />
+
   <img src="https://img.shields.io/badge/ThingSpeak-2D9CDB?style=flat-square&logo=mathworks&logoColor=white" alt="ThingSpeak" />
   <img src="https://img.shields.io/badge/Blynk%20IoT-24C48E?style=flat-square&logo=blynk&logoColor=white" alt="Blynk IoT" />
   <img src="https://img.shields.io/badge/EasyEDA-1766AA?style=flat-square&logo=easyeda&logoColor=white" alt="EasyEDA" />
@@ -85,11 +85,7 @@ I’m **Teja Sai Gudla**, an Electronics and Communication Engineering undergrad
       <p>A responsive design-course website covering curriculum, tools, pricing, certification, and student reviews.</p>
       <p><a href="https://github.com/TEJA-100/DesignHub">↗ Repository</a> · <a href="https://designhub-ts.netlify.app/">↗ Live demo</a></p>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://js-projects-ashy.vercel.app/">Profile Card Generator</a></h3>
-      <p>A shareable profile-card builder with social links, local storage, and Firebase-backed data.</p>
-      <p><a href="https://github.com/TEJA-100/Js-Projects/tree/main/ProfileCardGenerator">↗ Repository</a> · <a href="https://js-projects-ashy.vercel.app/">↗ Live demo</a></p>
-    </td>
+  
   </tr>
 </table>
 
